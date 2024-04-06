@@ -7,6 +7,10 @@ public class WhileLoops {
             System.out.println("Hello " + value);
             value = value +1;
         }
-// Цикл выполянеется до тек пол пока условие истино.
+// todo Цикл выполянеется до тех пол пока условие истино.
+        // fixme add:
+
+
+
     }
 }

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="594c40ce-b93d-49c0-ab65-59d28c1d2421" name="Changes" comment="Сommit 07.04.24_2">
+      <change afterPath="$PROJECT_DIR$/src/Stepik_lessons/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stepik_lessons/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stepik_lessons/WhatToEat.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Denis20101977&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1712317311" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Denis20101977/Java_cource.git&quot;,
+    &quot;accountId&quot;: &quot;7d7b6df0-a362-4b8e-8118-f7b3cf3220df&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2egC6gOSnC8mjnD8rKOYZPuuOM1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Break_Continue.executor": "Run",
+    "Application.ConditionalOperator.executor": "Run",
+    "Application.Continue.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.Hello_World.executor": "Run",
+    "Application.If.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.WhatToEat.executor": "Run",
+    "Application.WhileLoops.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "O:/Обучение Денис_Василина/!Java_cource",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.integerTypes">
+    <configuration name="ConditionalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stepik_lessons.ConditionalOperator" />
+      <module name="Lesson_youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stepik_lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Continue" />
+      <module name="Lesson_youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stepik_lessons.Variable" />
+      <module name="Lesson_youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stepik_lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatToEat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stepik_lessons.WhatToEat" />
+      <module name="Lesson_youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stepik_lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="integerTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stepik_lessons.integerTypes" />
+      <module name="Lesson_youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stepik_lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.integerTypes" />
+        <item itemvalue="Application.WhatToEat" />
+        <item itemvalue="Application.ConditionalOperator" />
+        <item itemvalue="Application.Variable" />
+        <item itemvalue="Application.Continue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="594c40ce-b93d-49c0-ab65-59d28c1d2421" name="Changes" comment="" />
+      <created>1712316662862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712316662862</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1712317179685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712317179685</updated>
+    </task>
+    <task id="LOCAL-00002" summary="String commit">
+      <option name="closed" value="true" />
+      <created>1712319372721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712319372721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="WhileLoops commit">
+      <option name="closed" value="true" />
+      <created>1712320056689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712320056689</updated>
+    </task>
+    <task id="LOCAL-00004" summary="WhileLoops commit_2">
+      <option name="closed" value="true" />
+      <created>1712362284142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712362284143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Сommit 07.04.24.">
+      <option name="closed" value="true" />
+      <created>1712484439463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712484439463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Сommit 07.04.24.">
+      <option name="closed" value="true" />
+      <created>1712484481997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712484481997</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Сommit 07.04.24.">
+      <option name="closed" value="true" />
+      <created>1712485281695</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712485281695</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Сommit 07.04.24_2">
+      <option name="closed" value="true" />
+      <created>1712485307005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712485307005</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Сommit 07.04.24_2">
+      <option name="closed" value="true" />
+      <created>1712485319541</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712485319541</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="String commit" />
+    <MESSAGE value="WhileLoops commit" />
+    <MESSAGE value="WhileLoops commit_2" />
+    <MESSAGE value="Сommit 07.04.24." />
+    <MESSAGE value="Сommit 07.04.24_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сommit 07.04.24_2" />
+  </component>
+</project>

@@ -3,4 +3,13 @@ public class Box {
     double weight;
     double height;
 
+    double getVolume() {
+        return lenght * weight * height;
+    }
+
+    void showVolume() {
+        System.out.println(getVolume());
+
+    }
+
 }
